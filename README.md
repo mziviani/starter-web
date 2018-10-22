@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 Inserimento sezione purpose
 
 ## How to contribute
+Please fork this repository
 
 ## Deployment
 
