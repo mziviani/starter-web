@@ -10,5 +10,3 @@ Inserimento sezione purpose
 ## How to contribute
 
 ## Deployment
-
-Nuova sezione
